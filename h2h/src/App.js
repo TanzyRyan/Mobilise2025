@@ -1,4 +1,5 @@
 import HomePage from "./pages/HomePage";
+import FormPage from "./pages/FormPage";
 
 
 function App() {
